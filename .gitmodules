@@ -1,0 +1,6 @@
+[submodule "Lib/RESTRequest4Delphi"]
+	path = Lib/RESTRequest4Delphi
+	url = https://github.com/viniciussanchez/RESTRequest4Delphi.git
+[submodule "Lib/dataset-serialize"]
+	path = Lib/dataset-serialize
+	url = https://github.com/viniciussanchez/dataset-serialize.git
